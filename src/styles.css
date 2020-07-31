@@ -1,2 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
 @import "bulma/css/bulma.min.css";
+
+.center {
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.box.column.is-one-third {
+  min-width: 400px;
+  padding: 40px;
+}
