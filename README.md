@@ -1,5 +1,5 @@
 # Password Generator
 
 # Live
-(https://password-generator-vert.vercel.app/)
+https://password-generator-vert.vercel.app/
 
